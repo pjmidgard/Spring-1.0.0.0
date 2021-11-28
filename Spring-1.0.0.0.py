@@ -61,14 +61,13 @@ class compression:
                         nac=len(nameas)
                         G=1
 
-                    if nameas[nac-3:nac]==".b2":
+                    elif nameas[nac-3:nac]==".b2":
                         nameas=name[:nac-3]
                         nac=len(nameas)
-                        
 
-                    
-                        
-                        
+
+                    else:
+                        raise SystemExit 
                     
                     nac=len(nameas)
                     

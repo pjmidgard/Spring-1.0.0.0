@@ -12,7 +12,7 @@ lenf=0
 name=""
 szx=""
 wer=""
-namez = input("c,c2: compress or e,e2: extract? ")
+namez = input("c,c2,c3: compress or e,e2,e3: extract? ")
 
 f = open("PI_10M.txt", "r")
 PI=f.read()
@@ -26,10 +26,10 @@ class compression:
                 
                 self.name = "Written: Jurijus pacalovas Date: 29/09/2021 18:06"
                 
-                if namez=="c2" or namez=="e2":
-                    if namez=="c2":
+                if namez=="c3" or namez=="e3":
+                    if namez=="c3":
                         i=1
-                    if namez=="e2":
+                    if namez=="e3":
                         i=2
                     
                     #import mpmath as m

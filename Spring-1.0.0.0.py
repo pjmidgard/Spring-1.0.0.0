@@ -54,14 +54,7 @@ class compression:
                     nameas=name
                     nac=len(nameas)
 
-                    
-                    if nameas[nac-3:nac]==".b1":
-                        nameas=name[:nac-3]
-                        nac=len(nameas)
-                      
-
-                    
-
+                   
                     
                     nac=len(nameas)
                     
@@ -324,14 +317,7 @@ class compression:
                                                     z=z+1
                                                              
                                         sda17=sda3[0:lenf6F-8]+szx2+N4
-                                                   
-
-                                    
-                                        
-                                        
-                                                   
-                              
-                                                  
+                  
                                     sda6=sda4
                                     sda4=""
                                       

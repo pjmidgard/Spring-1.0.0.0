@@ -1431,11 +1431,11 @@ class compression:
 
 d=compression()
 
-xw=d.cryptograpy_compression4()
-print(xw)
+xw1=d.cryptograpy_compression4()
+print(xw1)
 
-xw=d.cryptograpy_compression5()
-print(xw)
+xw2=d.cryptograpy_compression5()
+print(xw2)
 
-xw=d.cryptograpy_compression6()
-print(xw)
+xw3=d.cryptograpy_compression6()
+print(xw3)

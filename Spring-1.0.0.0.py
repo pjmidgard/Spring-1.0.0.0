@@ -716,7 +716,9 @@ class compression:
                                                    print("FAST")
 
                                              
+                                          return print(x3)
+
 d=compression()
 
 xw=d.cryptograpy_compression4()
-print(xw)                                          return print(x3)
+print(xw)

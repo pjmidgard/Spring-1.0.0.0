@@ -2115,5 +2115,5 @@ d=compression()
 xw=d.cryptograpy_compression4()
 print(xw)
 
-xw=d.cryptograpy_compression5()
-print(xw)
+xw1=d.cryptograpy_compression5()
+print(xw1)

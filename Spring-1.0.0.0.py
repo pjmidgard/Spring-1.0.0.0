@@ -1543,7 +1543,7 @@ class compression:
 		                                    ccc=2
 		                                   
 		                                    
-		                                    if T40!=T7:
+		                                    if T40!=T7 or T40<=T7:
 		                                    	nameas=name+".b3" 
 		                                    	T40=T40-10000
 		                                    	ccc=3

@@ -16,7 +16,7 @@ wer=""
 
 namez = input("c, c2: compress or e, e2: extract? ")
 if namez=="c2":
-	Deep2=int(input("Please, enter Deep? "))
+	Deep2=8
 f = open("PI_10M.txt", "r")
 PI=f.read()
 

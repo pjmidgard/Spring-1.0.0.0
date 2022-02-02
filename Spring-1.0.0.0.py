@@ -6,7 +6,7 @@ import binascii
 import math
 
 Deep=4
-Spin2=300
+Spin2=290
 
 lenf=0
 name=""

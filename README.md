@@ -1,8 +1,6 @@
 # Spring-1.0.0.0
 Spring-1.0.0.0
 
-Speed: 300Bytes/s
-
 Developed: Jurijus Pacalovas.
 
 Presentation:
